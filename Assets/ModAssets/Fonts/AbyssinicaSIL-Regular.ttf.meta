@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 7f482882ac2e14348a95f4163f1d6f3a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Abyssinica SIL
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c68075cad303e5a49be7f42ce99b40de, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
